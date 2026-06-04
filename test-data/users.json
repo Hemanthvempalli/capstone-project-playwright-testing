@@ -1,0 +1,34 @@
+{
+  "validUser": {
+    "email": "hemanthvempalli@gmail.com",
+    "password": "Password@2288"
+  },
+  "invalidUser": {
+    "email": "invalid@notexist.com",
+    "password": "wrongpassword"
+  },
+  "newUser": {
+    "firstName": "Lucky",
+    "lastName": "Tester",
+    "email": "luckytest999@gmail.com",
+    "password": "Lucky@123",
+    "phone": "9876543210"
+  },
+  "address": {
+    "firstName": "Lucky",
+    "lastName": "Tester",
+    "company": "Test Company Pvt Ltd",
+    "address1": "123, MG Road",
+    "address2": "Near City Mall",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001",
+    "phone": "9876543210",
+    "gst": "27AAPFU0939F1ZV"
+  },
+  "searchTerms": {
+    "valid": "book",
+    "partial": "computer",
+    "invalid": "xyzabc123notfound"
+  }
+}
